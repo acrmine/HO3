@@ -2,6 +2,7 @@
   <dictionary name="project">
     <words>
       <w>amnt</w>
+      <w>avgandstddev</w>
       <w>intfloat</w>
     </words>
   </dictionary>
